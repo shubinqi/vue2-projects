@@ -2,7 +2,7 @@
  * @Author: Shu Binqi
  * @Date: 2023-03-11 19:16:02
  * @LastEditors: Shu Binqi
- * @LastEditTime: 2023-03-11 19:37:15
+ * @LastEditTime: 2023-03-12 12:32:07
  * @Description: Vue 2.X 参考项目
  * @Version: 1.0.0
  * @FilePath: \interviewQuestionsd:\Git\vue2-projects\Readme.md
@@ -86,7 +86,7 @@ vue init webpack vue2-element-webpack
 
 注意事项：
 
-- 名称不能包含大写字母。
+- 项目名称不能包含大写字母。
 
 ### 创建 Vue 2.X + jQuery 项目（网站）
 
