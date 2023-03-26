@@ -2,10 +2,10 @@
  * @Author: Shu Binqi
  * @Date: 2023-03-11 19:16:02
  * @LastEditors: Shu Binqi
- * @LastEditTime: 2023-03-12 12:32:07
+ * @LastEditTime: 2023-03-26 18:37:36
  * @Description: Vue 2.X 参考项目
  * @Version: 1.0.0
- * @FilePath: \interviewQuestionsd:\Git\vue2-projects\Readme.md
+ * @FilePath: \interviewQuestionsd:\Git\vue2-projects\README.md
 -->
 
 ## 运行环境
@@ -49,6 +49,17 @@ npm install @vue/cli -g
 ```
 
 ## 创建 Vue 2.X 项目
+
+```
+# 1. 使用 vue ui 创建
+vue ui
+
+# 2. 使用 vue-cli 创建
+vue create project-name
+
+# 3. 使用 vite 创建
+vite create my-vue-app --template vue-ts
+```
 
 ### 创建 Vue 2.X + Element-UI 项目（管理系统）
 
